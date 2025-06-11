@@ -5,7 +5,7 @@
 
 - 👨🏻‍🎓 I’m a Software Engineering
 
-- 🌱 I’m currently working with **Frontend Technologies**
+- 🌱 I’m currently working with **Frontend Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
